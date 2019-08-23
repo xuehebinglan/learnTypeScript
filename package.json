@@ -1,0 +1,19 @@
+{
+  "name": "learntypescript",
+  "version": "1.0.0",
+  "description": "> This Project is for learning TypeScript. > https://www.tslang.cn/docs/handbook/typescript-in-5-minutes.html",
+  "main": "index.js",
+  "scripts": {
+    "demos": "tsc -p ./demos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuehebinglan/learnTypeScript.git"
+  },
+  "author": "xuehebinglan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuehebinglan/learnTypeScript/issues"
+  },
+  "homepage": "https://github.com/xuehebinglan/learnTypeScript#readme"
+}
